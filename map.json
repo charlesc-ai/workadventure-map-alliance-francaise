@@ -167,7 +167,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/playlist?list=PLzHu2KKQQqJR3J2kaWnLCNHPFjrWxsvH6"
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLzHu2KKQQqJR3J2kaWnLCNHPFjrWxsvH6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -203,7 +203,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtube.com\/playlist?list=PLzHu2KKQQqJQ7b-5sdu-Ikz_6LJubMbCv"
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLzHu2KKQQqJQ7b-5sdu-Ikz_6LJubMbCv"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -221,7 +221,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/playlist?list=PLzHu2KKQQqJQSIqwtE6DF3lvvXYITWxZW"
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLzHu2KKQQqJQSIqwtE6DF3lvvXYITWxZW"
                 }],
          "type":"tilelayer",
          "visible":true,
